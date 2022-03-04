@@ -186,7 +186,7 @@ class CameraViewController: UIViewController {
             )
 
             scanYourCardToProceedLabel.textAlignment = NSTextAlignment.center
-            scanYourCardToProceedLabel.text = 'Posicione o cartão para leitura. Essa imagem não será salva'
+            scanYourCardToProceedLabel.text = "Posicione o cartão para leitura. Essa imagem não será salva"
             scanYourCardToProceedLabel.numberOfLines = 0
             scanYourCardToProceedLabel.font = scanYourCardToProceedLabel.font.withSize(12.0)
             scanYourCardToProceedLabel.textColor = .white
